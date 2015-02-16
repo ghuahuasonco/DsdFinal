@@ -1,0 +1,8 @@
+C:\DsdAF\AFsoa\FrmWindowx\bin\Debug\FrmWindowx.exe.config
+C:\DsdAF\AFsoa\FrmWindowx\bin\Debug\FrmWindowx.exe
+C:\DsdAF\AFsoa\FrmWindowx\bin\Debug\FrmWindowx.pdb
+C:\DsdAF\AFsoa\FrmWindowx\obj\Debug\FrmWindowx.csprojResolveAssemblyReference.cache
+C:\DsdAF\AFsoa\FrmWindowx\obj\Debug\FrmWindowx.Properties.Resources.resources
+C:\DsdAF\AFsoa\FrmWindowx\obj\Debug\FrmWindowx.csproj.GenerateResource.Cache
+C:\DsdAF\AFsoa\FrmWindowx\obj\Debug\FrmWindowx.exe
+C:\DsdAF\AFsoa\FrmWindowx\obj\Debug\FrmWindowx.pdb

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="AFSOAP_Services.TPCalificas" CodeBehind="TPCalificas.svc.cs" %>

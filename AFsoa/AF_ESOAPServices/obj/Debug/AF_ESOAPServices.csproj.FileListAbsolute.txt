@@ -1,0 +1,7 @@
+C:\DsdAF\AFsoa\AF_ESOAPServices\bin\AF_ESOAPServices.dll
+C:\DsdAF\AFsoa\AF_ESOAPServices\bin\AF_ESOAPServices.pdb
+C:\DsdAF\AFsoa\AF_ESOAPServices\obj\Debug\AF_ESOAPServices.dll
+C:\DsdAF\AFsoa\AF_ESOAPServices\obj\Debug\AF_ESOAPServices.pdb
+C:\DsdAF\AFsoa\AF_ESOAPServices\bin\AF_ESOAPServices.dll.CodeAnalysisLog.xml
+C:\DsdAF\AFsoa\AF_ESOAPServices\bin\AF_ESOAPServices.dll.lastcodeanalysissucceeded
+C:\DsdAF\AFsoa\AF_ESOAPServices\obj\Debug\AF_ESOAPServices.csprojResolveAssemblyReference.cache

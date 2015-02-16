@@ -1,0 +1,6 @@
+C:\DsdAF\AFsoa\AF_RESTServices\bin\AF_RESTServices.dll
+C:\DsdAF\AFsoa\AF_RESTServices\bin\AF_RESTServices.pdb
+C:\DsdAF\AFsoa\AF_RESTServices\obj\Debug\AF_RESTServices.dll
+C:\DsdAF\AFsoa\AF_RESTServices\obj\Debug\AF_RESTServices.pdb
+C:\DsdAF\AFsoa\AF_RESTServices\bin\AF_RESTServices.dll.CodeAnalysisLog.xml
+C:\DsdAF\AFsoa\AF_RESTServices\bin\AF_RESTServices.dll.lastcodeanalysissucceeded

@@ -1,0 +1,5 @@
+C:\DsdAF\AFsoa\RESTtest\bin\Debug\RESTtest.dll
+C:\DsdAF\AFsoa\RESTtest\bin\Debug\RESTtest.pdb
+C:\DsdAF\AFsoa\RESTtest\obj\Debug\RESTtest.csprojResolveAssemblyReference.cache
+C:\DsdAF\AFsoa\RESTtest\obj\Debug\RESTtest.dll
+C:\DsdAF\AFsoa\RESTtest\obj\Debug\RESTtest.pdb

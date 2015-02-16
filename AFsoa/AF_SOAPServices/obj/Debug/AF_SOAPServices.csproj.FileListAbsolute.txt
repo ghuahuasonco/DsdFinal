@@ -1,0 +1,5 @@
+C:\DsdAF\AFsoa\AF_SOAPServices\bin\AF_SOAPServices.dll
+C:\DsdAF\AFsoa\AF_SOAPServices\bin\AF_SOAPServices.pdb
+C:\DsdAF\AFsoa\AF_SOAPServices\obj\Debug\AF_SOAPServices.dll
+C:\DsdAF\AFsoa\AF_SOAPServices\obj\Debug\AF_SOAPServices.pdb
+C:\DsdAF\AFsoa\AF_SOAPServices\obj\Debug\AF_SOAPServices.csprojResolveAssemblyReference.cache

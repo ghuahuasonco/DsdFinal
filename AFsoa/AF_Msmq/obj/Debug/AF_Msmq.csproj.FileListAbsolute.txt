@@ -1,0 +1,9 @@
+C:\DsdAF\AFsoa\AF_Msmq\bin\Debug\AF_Msmq.exe.config
+C:\DsdAF\AFsoa\AF_Msmq\bin\Debug\AF_Msmq.exe
+C:\DsdAF\AFsoa\AF_Msmq\bin\Debug\AF_Msmq.pdb
+C:\DsdAF\AFsoa\AF_Msmq\obj\Debug\AF_Msmq.Properties.Resources.resources
+C:\DsdAF\AFsoa\AF_Msmq\obj\Debug\AF_Msmq.csproj.GenerateResource.Cache
+C:\DsdAF\AFsoa\AF_Msmq\obj\Debug\AF_Msmq.exe
+C:\DsdAF\AFsoa\AF_Msmq\obj\Debug\AF_Msmq.pdb
+C:\DsdAF\AFsoa\AF_Msmq\obj\Debug\AF_Msmq.Frmsqm.resources
+C:\DsdAF\AFsoa\AF_Msmq\obj\Debug\AF_Msmq.csprojResolveAssemblyReference.cache

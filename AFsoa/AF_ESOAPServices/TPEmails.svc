@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="AF_ESOAPServices.TPEmails" CodeBehind="TPEmails.svc.cs" %>

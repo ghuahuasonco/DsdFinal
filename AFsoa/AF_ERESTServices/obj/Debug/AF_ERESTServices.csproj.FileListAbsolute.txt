@@ -1,0 +1,6 @@
+C:\DsdAF\AFsoa\AF_ERESTServices\bin\AF_ERESTServices.dll
+C:\DsdAF\AFsoa\AF_ERESTServices\bin\AF_ERESTServices.pdb
+C:\DsdAF\AFsoa\AF_ERESTServices\obj\Debug\AF_ERESTServices.dll
+C:\DsdAF\AFsoa\AF_ERESTServices\obj\Debug\AF_ERESTServices.pdb
+C:\DsdAF\AFsoa\AF_ERESTServices\bin\AF_ERESTServices.dll.CodeAnalysisLog.xml
+C:\DsdAF\AFsoa\AF_ERESTServices\bin\AF_ERESTServices.dll.lastcodeanalysissucceeded

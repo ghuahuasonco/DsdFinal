@@ -1,0 +1,3 @@
+C:\DsdAF\AFsoa\MsmqEmails\obj\Debug\MsmqEmails.csprojResolveAssemblyReference.cache
+C:\DsdAF\AFsoa\MsmqEmails\obj\Debug\MsmqEmails.Properties.Resources.resources
+C:\DsdAF\AFsoa\MsmqEmails\obj\Debug\MsmqEmails.csproj.GenerateResource.Cache

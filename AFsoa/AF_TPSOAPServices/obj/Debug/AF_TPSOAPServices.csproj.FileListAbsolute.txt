@@ -1,0 +1,6 @@
+C:\DsdAF\AFsoa\AF_TPSOAPServices\bin\AF_TPSOAPServices.dll
+C:\DsdAF\AFsoa\AF_TPSOAPServices\bin\AF_TPSOAPServices.pdb
+C:\DsdAF\AFsoa\AF_TPSOAPServices\obj\Debug\AF_TPSOAPServices.dll
+C:\DsdAF\AFsoa\AF_TPSOAPServices\obj\Debug\AF_TPSOAPServices.pdb
+C:\DsdAF\AFsoa\AF_TPSOAPServices\bin\AF_TPSOAPServices.dll.CodeAnalysisLog.xml
+C:\DsdAF\AFsoa\AF_TPSOAPServices\bin\AF_TPSOAPServices.dll.lastcodeanalysissucceeded

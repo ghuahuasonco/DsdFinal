@@ -1,0 +1,7 @@
+C:\DsdAF\AFsoa\AFRESTServices\bin\AFRESTServices.dll
+C:\DsdAF\AFsoa\AFRESTServices\bin\AFRESTServices.pdb
+C:\DsdAF\AFsoa\AFRESTServices\obj\Debug\AFRESTServices.dll
+C:\DsdAF\AFsoa\AFRESTServices\obj\Debug\AFRESTServices.pdb
+C:\DsdAF\AFsoa\AFRESTServices\bin\AFRESTServices.dll.CodeAnalysisLog.xml
+C:\DsdAF\AFsoa\AFRESTServices\bin\AFRESTServices.dll.lastcodeanalysissucceeded
+C:\DsdAF\AFsoa\AFRESTServices\obj\Debug\AFRESTServices.csprojResolveAssemblyReference.cache
