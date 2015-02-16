@@ -21,10 +21,10 @@ namespace AF_ESOAPServices
                 cliente.Timeout = 10000;
                 cliente.DeliveryMethod = SmtpDeliveryMethod.Network;
                 cliente.UseDefaultCredentials = false;
-                cliente.Credentials = new NetworkCredential("ghuahuasonco@gmail.com", "Kross986280383Kross");
+                cliente.Credentials = new NetworkCredential("tuemail@gmail.com", "tuclave");
                 MailMessage msg = new MailMessage();
                 msg.To.Add(msgto);
-                msg.From = new MailAddress("ghuahuasonco@gmail.com");
+                msg.From = new MailAddress("enviar@gmail.com");
                 msg.Subject = msgsubjet;
                 msg.Body = msgbody;
                 msg.IsBodyHtml = true;
