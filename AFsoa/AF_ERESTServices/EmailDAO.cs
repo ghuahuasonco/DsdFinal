@@ -16,10 +16,10 @@ namespace AF_ERESTServices
             cliente.Timeout = 10000;
             cliente.DeliveryMethod = SmtpDeliveryMethod.Network;
             cliente.UseDefaultCredentials = false;
-            cliente.Credentials = new NetworkCredential("ghuahuasonco@gmail.com", "Kross986280383Kross");
+            cliente.Credentials = new NetworkCredential("tuemail@tuemail.com", "tuclave");
             MailMessage msg = new MailMessage();
             msg.To.Add(EnviarEmail.msgto);
-            msg.From = new MailAddress("ghuahuasonco@gmail.com");
+            msg.From = new MailAddress("enviar@email.com");
             msg.Subject = EnviarEmail.msgsubjet;
             msg.Body = EnviarEmail.msgbody;
             msg.IsBodyHtml = true;
